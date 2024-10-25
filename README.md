@@ -4,7 +4,7 @@ A simple and intuitive notes application that allows users to create, edit, dele
 
 ## 🌐 Live Demo
 
-[Live Demo](YOUR_LIVE_DEMO_LINK) - Check out the live demo of the application 
+[Live Demo](https://patika-notes-app.netlify.app/) - Check out the live demo of the application 
 
 ## 🖼 ScreenShot
 [Click here to see the screenshot](./src/assets/ss-notes-app.png)
